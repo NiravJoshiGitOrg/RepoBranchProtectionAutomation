@@ -7,7 +7,7 @@
 A sample python application which demonstrates to create repositories within organization and upon 
 creation repository it will automate protection of master branch using Branch Protection Rule.
 
-[Repository creation and Branch Protection](https://github.com/niravhjoshi/GitHubHookWebApp)
+[Repository creation and Branch Protection](https://github.com/NiravJoshiGitOrg/RepoBranchProtectionAutomation)
 
 ## Scope of Project:-
 
